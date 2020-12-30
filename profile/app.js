@@ -1,6 +1,6 @@
 //Movement Animation to happen
 const card = document.querySelector(".card");
-const container = document.querySelector(".container");
+const container = document.querySelector(".container-fluid");
 //Items
 const title = document.querySelector(".title");
 const sneaker = document.querySelector(".sneaker img");
