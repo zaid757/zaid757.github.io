@@ -105,9 +105,21 @@ button.active {
 
 
     .card {
-     width: 295px;
+        width: 300px;
  }
 
+ .info h1 {
+    font-size: 1.8rem;
+    transition: all 0.75s ease-out;
+}
+
+ .info h3 {
+    font-size: 1.3rem;
+    padding: 0.5rem 0;
+    color: #585858;
+    font-weight: lighter;
+    transition: all 0.75s ease-out;
+}
 
  .sizes {
      left: px;
@@ -119,5 +131,10 @@ button.active {
  button {
      margin-left: 5px;
  }
+
+ .purchase {
+    margin-top: 1.2rem;
+    transition: all 0.75s ease-out;
+}
 
  }
