@@ -106,6 +106,7 @@ button.active {
 
     .card {
         width: 300px;
+        margin-top: -15px;
  }
 
  .info h1 {
@@ -122,7 +123,7 @@ button.active {
 }
 
  .sizes {
-     left: px;
+
      margin-right: auto;
      position: relative;
      right: 30px;
