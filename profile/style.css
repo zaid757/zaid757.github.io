@@ -132,9 +132,27 @@ button.active {
      margin-left: 5px;
  }
 
+ .container-fluid {
+
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
  .purchase {
     margin-top: 1.2rem;
     transition: all 0.75s ease-out;
+}
+
+
+.sneaker {
+    min-height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 280px;
 }
 
  }
