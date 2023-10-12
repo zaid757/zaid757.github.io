@@ -64,6 +64,8 @@ main {
 }
 
 .glass {
+  margin-top: 30px;
+  margin-bottom: 30px;
   background: white;
   min-height: 80vh;
   width: 60%;
